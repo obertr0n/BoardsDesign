@@ -1,4 +1,4 @@
-update=2/14/2017 11:41:26 PM
+update=2/15/2017 9:42:11 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,11 +23,19 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
+[schematic_editor]
 version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
 [eeschema]
 version=1
-LibDir=D:/Software/KiCAD_Libraries
+LibDir=C:/Work/Projects/Git/BoardsDesign/KiCAD/KiCAD_Libraries/MyKiCADLibs
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -153,13 +161,8 @@ LibName121=C:/Program Files/KiCad/share/kicad/library/Xicor
 LibName122=C:/Program Files/KiCad/share/kicad/library/xilinx
 LibName123=C:/Program Files/KiCad/share/kicad/library/zetex
 LibName124=C:/Program Files/KiCad/share/kicad/library/Zilog
-[schematic_editor]
+LibName125=C:/Work/Projects/Git/BoardsDesign/KiCAD/KiCAD_Libraries/MyKiCADLibs/Components/ESP8266
+LibName126=C:/Work/Projects/Git/BoardsDesign/KiCAD/KiCAD_Libraries/MyKiCADLibs/Components/mq_snsr
+LibName127=C:/Work/Projects/Git/BoardsDesign/KiCAD/KiCAD_Libraries/MyKiCADLibs/Components/tgs2602
+[general]
 version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceAjustPassiveValues=0
-LabSize=60
-ERC_TestSimilarLabels=1
