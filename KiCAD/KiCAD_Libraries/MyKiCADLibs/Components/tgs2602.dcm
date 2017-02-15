@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TGS2602
+D TGS Gas Sensor
+K Gas
+$ENDCMP
+#
+#End Doc Library
