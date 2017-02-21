@@ -1,4 +1,4 @@
-update=2/15/2017 9:42:11 PM
+update=2/16/2017 8:06:15 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,16 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceAjustPassiveValues=0
-LabSize=60
-ERC_TestSimilarLabels=1
 [eeschema]
 version=1
 LibDir=C:/Work/Projects/Git/BoardsDesign/KiCAD/KiCAD_Libraries/MyKiCADLibs
@@ -166,3 +156,13 @@ LibName126=C:/Work/Projects/Git/BoardsDesign/KiCAD/KiCAD_Libraries/MyKiCADLibs/C
 LibName127=C:/Work/Projects/Git/BoardsDesign/KiCAD/KiCAD_Libraries/MyKiCADLibs/Components/tgs2602
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
